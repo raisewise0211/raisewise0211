@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 <a href="https://github.com/devxb/gitanimals">
-<img src="https://render.gitanimals.org/farms/raisewise0211"
-/>
+  <img src="https://render.gitanimals.org/farms/raisewise0211"/>
 </a>
 
 <!--
