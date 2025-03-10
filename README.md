@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=raisewise0211&utm_content=farm">
+<a href="https://github.com/devxb/gitanimals">
 <img src="https://render.gitanimals.org/farms/raisewise0211"
 />
 </a>
