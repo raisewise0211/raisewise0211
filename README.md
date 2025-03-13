@@ -2,15 +2,6 @@
 
 ### 기현이의 GIT HUB
 
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=raisewise0211&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/raisewise0211?pet-id=686825217270314692"
-    width="600"
-    height="120"
-  />
-</a>
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=raisewise0211&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/raisewise0211"
